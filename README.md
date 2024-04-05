@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gabriel Garcia Perez</h1>
 <h3 align="center">Un apasionado desarrollador web y perito informatico en México, con 5 años de experiencia laboral en diferentes rubros de la informatica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garciag1&label=Profile%20views&color=0e75b6&style=flat" alt="garciag1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garciag1" alt="garciag1" /></a> </p>
 
