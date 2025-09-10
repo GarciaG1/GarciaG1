@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gabriel Garcia Perez</h1>
-<h3 align="center">Un apasionado desarrollador web y perito informatico en México, con 5 años de experiencia laboral en diferentes rubros de la informatica</h3>
+<h3 align="center">Un apasionado desarrollador web y perito informatico en México, con mas de 7 años de experiencia laboral en diferentes rubros de la informatica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garciag1&label=Profile%20views&color=0e75b6&style=flat" alt="garciag1" /> </p>
 
